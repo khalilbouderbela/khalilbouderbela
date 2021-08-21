@@ -5,11 +5,11 @@
 
  #### Connect with me:
   <p align="left"> 
-  <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/ height="30" width="30">
-  <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png"/ height="30" width="30">
+  <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/ height="30" width="30"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png"/ height="30" width="30"/>
   </p>
-  
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=khalilbouderbela&show_icons=true&theme=radical)
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=khalilbouderbela&show_icons=true&theme=radical"/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamranahmedse&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  <p align="left"> 
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
