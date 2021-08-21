@@ -9,8 +9,8 @@
   <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png"/ height="30" width="30">
   </p>
   
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Khalil&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=khalilbouderbela&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilbouderbela&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  <p align="left"> 
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/ios/50/4a90e2/react-native--v1.png"/>
