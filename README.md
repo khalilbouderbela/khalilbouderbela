@@ -1,7 +1,8 @@
  # {Hello world}, I’m khalilbouderbela()👋
 - 🔭 I'm software engineering student @[ESPRIT](https://esprit.tn/) in Tunis,Tunisia
-- 🌱 I’m currently learning ReactJS,NodeJS 🤣
 - 👯 I’m looking for pfe internship
+- 🌱 I’m currently learning ReactJS,NodeJS 
+
  #### Connect with me:
   <p align="left"> 
   <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/ height="30" width="30">
