@@ -6,8 +6,11 @@
 
  #### Connect with me:
   <p align="left"> 
-  <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/ height="30" width="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png"/ height="30" width="30"/>
+ <a href="https://www.linkedin.com/in/khalil-bouderbela-599318217/" target="blank">
+ <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/ height="30" width="30"/>
+ </a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16719612/khalil-bouderbela" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16719612/khalil-bouderbela" height="30" width="30" /></a>
+
   </p>
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=khalilbouderbela&show_icons=true&theme=radical"/>
 
