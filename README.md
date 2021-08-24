@@ -1,5 +1,5 @@
  # {Hello world}, I’m khalilbouderbela()👋
-- 🔭 I'm software engineering student @[ESPRIT](https://esprit.tn/) in Tunis,Tunisia
+- 🔭 I'm software engineering student @[ESPRIT](https://esprit.tn/)
 - 👯 I’m looking for pfe internship
 - 🌱 I’m currently learning ReactJS,NodeJS 
 - 📫 How to reach me **bouderbelakhalil@gmail.com**
